@@ -10,4 +10,4 @@
     ``` python manage.py runserver ```
     
 Таким образом сайт будет запущен и готов к работе по адресу  http://127.0.0.1:8000/.
-Подробности работы с сайтом указаны в файле [README.md](https://github.com/DarkValkier/Autopark/blob/master/README.md).
+Подробности работы с сайтом указаны в файле [README.md](README.md).
